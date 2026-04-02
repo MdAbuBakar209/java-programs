@@ -1,0 +1,7 @@
+class first 
+{
+   public static void main(String abu[])
+   {
+      System.out.println("Hello");
+   }
+}
